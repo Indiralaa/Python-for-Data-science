@@ -1,2 +1,2 @@
-# Python-for-Data-science
+# Coursera_Capstone
 Capstone projects
